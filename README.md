@@ -1,6 +1,6 @@
 # 🚀 Curso de Front-End 🌐
 
-¡Bienvenido a mi viaje por el mundo del desarrollo Front-End! 🎉 Aquí es donde sucede toda la magia visual, donde CSS se convierte en poesía, JavaScript en hechizos, y HTML en los ladrillos que construyen la web. 🧱✨
+¡Bienvenido a mi viaje por el mundo del desarrollo Front-End! 🎉 
 
 ---
 
@@ -34,12 +34,7 @@ Soy Zeida, desarrolladora Full-Stack con un objetivo claro: ¡dominar el Front-E
 
 ---
 
-## 🎯 Objetivos del Curso
-
-1. **Dominar los fundamentos de HTML, CSS y JavaScript.**
-2. **Crear interfaces responsivas y atractivas.**
-3. **Desarrollar buenas prácticas de trabajo con Git y GitHub.**
-4. **Ser capaz de hacer que las cosas dejen de moverse cuando no deberían (¡Oh, Flexbox y Grid, tengan piedad!).**
+HOLA JEJEJE
 
 ---
 
